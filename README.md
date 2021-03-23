@@ -1,4 +1,4 @@
-# Tervetuloa!
+# Ohjelmistotekniikka, harjoitustyö!
 
 Alla olevat linkit ovat tehty * Ohjelmistotekniikan* kurssin **ensimäisen viikon** tehtävälle.
 
