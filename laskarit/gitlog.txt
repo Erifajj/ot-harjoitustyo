@@ -1,0 +1,104 @@
+commit 020afe7ece6eb47b7698cc1737392841f304dd85 
+Author: yahiamoh <eerifaj@gmail.com> 
+Date:   Tue Mar 23 23:51:24 2021 +0200 
+
+   Poistettu ja uudelleennimetty 
+
+tiedostoja/file2.txt                 | 0 
+tiedostoja/{file1.txt => file22.txt} | 0 
+2 files changed, 0 insertions(+), 0 deletions(-) 
+
+commit f77da42250450b0af2fe251850eb4bcee96f5d4c 
+Author: yahiamoh <eerifaj@gmail.com> 
+Date:   Tue Mar 23 23:47:13 2021 +0200 
+
+   Uusia tiedostoja! 
+
+tiedostoja/file1.txt | 0 
+tiedostoja/file2.txt | 0 
+tiedostoja/file3.txt | 0 
+3 files changed, 0 insertions(+), 0 deletions(-) 
+
+commit 6a979fa0e48e6e26e542eec3e52d368c7c5bbb67 
+Author: yahiamoh <eerifaj@gmail.com> 
+Date:   Tue Mar 23 23:42:23 2021 +0200 
+
+   Uusi muutos kolmanteen 
+
+kolmas.txt | 2 +- 
+1 file changed, 1 insertion(+), 1 deletion(-) 
+
+commit a5a9002d5f5add5b8d391a54486f6752a928e3b6 
+Author: yahiamoh <eerifaj@gmail.com> 
+Date:   Tue Mar 23 23:39:54 2021 +0200 
+
+   Muokattu eka ja kolmas 
+
+eka.txt    | 2 +- 
+kolmas.txt | 2 +- 
+2 files changed, 2 insertions(+), 2 deletions(-) 
+
+commit 3bedd656668d0fcc286f106060ce67d1811cf1f9 
+Author: yahiamoh <eerifaj@gmail.com> 
+Date:   Tue Mar 23 23:38:12 2021 +0200 
+
+   Nimetty tiedosto.txt eka.txt 
+
+tiedosto.txt => eka.txt | 0 
+1 file changed, 0 insertions(+), 0 deletions(-) 
+
+commit 59a50e2401f237ad44c06af0c09a71d5a1156ea7 
+Author: yahiamoh <eerifaj@gmail.com> 
+Date:   Tue Mar 23 23:34:06 2021 +0200 
+
+   Editoitu tiedosto.txt ja poistettu sekä lisätty tekstiä. 
+
+tiedosto.txt | 2 +- 
+1 file changed, 1 insertion(+), 1 deletion(-) 
+
+commit be434f2ae5aa22e84a2b9a1faa53878f757e8dd0 
+Author: yahiamoh <eerifaj@gmail.com> 
+Date:   Tue Mar 23 23:31:37 2021 +0200 
+
+   tiedosto.txt lisätty paljon tekstiä 
+
+tiedosto.txt | 3 ++- 
+1 file changed, 2 insertions(+), 1 deletion(-) 
+
+commit e597c96b13e31834c90d3de22d61e1daf74d2910 
+Author: yahiamoh <eerifaj@gmail.com> 
+Date:   Tue Mar 23 23:26:18 2021 +0200 
+
+   toinen ja kolmas teksti muokattu! 
+
+kolmas.txt | 1 + 
+toinen.txt | 1 + 
+2 files changed, 2 insertions(+) 
+
+commit ba01b27b32d619b1d3da54199acbf4efa4349f54 
+Author: yahiamoh <eerifaj@gmail.com> 
+Date:   Tue Mar 23 23:23:52 2021 +0200 
+
+   Kolmas teksti luotu 
+
+kolmas.txt | 0 
+1 file changed, 0 insertions(+), 0 deletions(-) 
+
+commit 79600c26085ea19356bb326f432899e7d621a250 
+Author: yahiamoh <eerifaj@gmail.com> 
+Date:   Tue Mar 23 23:20:24 2021 +0200 
+
+   muutos ja lisäys 
+
+tiedosto.txt | 1 + 
+toinen.txt   | 0 
+2 files changed, 1 insertion(+) 
+
+commit f057c2b9a8ac88e818f7990f6069064e7ff891b3 
+Author: yahiamoh <eerifaj@gmail.com> 
+Date:   Tue Mar 23 23:15:22 2021 +0200 
+
+   tiedosto.txt luotu 
+
+tiedosto.txt | 0 
+1 file changed, 0 insertions(+), 0 deletions(-)
