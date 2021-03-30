@@ -1,13 +1,16 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author yahiamoh
- */
 public class Maksukortti {
+    private double arvo;
+    private final double EDULLINEN = 2.5;
+    private final double MAUKAS = 4.0;
     
+    public Maksukortti(double arvoaAlussa) {
+        this.arvo = arvoaAlussa;
+    }
+    
+    public void syoEdullisesti() {
+        if (this.arvo >= EDULLINEN) {
+            this.arvo -= EDULLINEN;
+        }
+    }
 }
