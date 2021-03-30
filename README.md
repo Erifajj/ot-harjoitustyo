@@ -11,4 +11,8 @@ Alla olevat linkit ovat tehty *Ohjelmistotekniikan* kurssin **toisen viikon** te
 
 [testikattavuus.png](https://github.com/Erifajj/ot-harjoitustyo/blob/master/laskarit/viikko2/testikattavuus.png)
 
+**MUUT**
+
+[Työaikakirjanpito](https://github.com/Erifajj/ot-harjoitustyo/blob/master/Ty%C3%B6aikakirjanpito.md)
+
 *Loppu*
