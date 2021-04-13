@@ -18,6 +18,6 @@ Alla olevat linkit ovat tehty *Ohjelmistotekniikan* kurssin **toisen viikon** te
 
 **MUUT**
 
-[Työaikakirjanpito](https://github.com/Erifajj/ot-harjoitustyo/blob/master/Ty%C3%B6aikakirjanpito.md)
+[Työaikakirjanpito](https://github.com/Erifajj/ot-harjoitustyo/blob/master/dokumentaatio/Ty%C3%B6aikakirjanpito.md)
 
 *Loppu*
